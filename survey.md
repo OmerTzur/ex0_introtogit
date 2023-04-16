@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: yellow
+Favorite food: pancakes
+Favorite musician/band: Coldplay
+Favorite movie: The Pirates of The Carribian
+Requested grade in the course: 100+
